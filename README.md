@@ -16,6 +16,7 @@ Projeto acadêmico de uma lâmpada inteligente conectada ao ecossistema **FIWARE
 - **Simulação no Wokwi:** [Smart Lamp — ESP32 e LDR](https://wokwi.com/projects/474868630235272193)
 - **Dashboard:** [dashboard-smart-lamp.vercel.app](https://dashboard-smart-lamp.vercel.app/)
 - **Vídeo demonstrativo:** **Link público: https://youtu.be/1DirWqW_ODo?si=yMi26Zp11zkui_P1
+- **Repositorio Dashboard:** https://github.com/EstelaMariano/site-smart-lamp.git
 
 ## Sobre o projeto
 
