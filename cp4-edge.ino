@@ -9,7 +9,7 @@
 //Rev3: 1-11-2023 Refinamento do código e ajustes para o funcionamento no FIWARE Descomplicado
 //Autor Rev3: Fábio Henrique Cabrini
 //Rev4: 11-09-2026 Alterações de SSID, PASSWORD, BROKER_MQTT e nome do dispositivo provisionado
-//Autor: Estela Mariano da Silva e Gabriela Labrada
+//Autor: Estela Mariano da Silva, Gabriela Labrada, Lucca Savoia e Beatriz Soares
 #include <WiFi.h>
 #include <PubSubClient.h>
 
